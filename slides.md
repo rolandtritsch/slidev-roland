@@ -95,16 +95,160 @@ drawings:
 ---
 
 ---
+layout: intro
+---
+
+# Roland ...
+
+... The User Manual
+
+<div class="absolute bottom-10">
+  <span class="font-700">
+    roland@tritsch.email, Jun 2023
+  </span>
+</div>
+
+---
+layout: image-right
+image: 'images/roland.png'
+---
+
+# Why?
+
+* Who is Roland?
+* What does Roland like, not like when working together?
+* What to do, not to do to get the most out of Roland?
+* How to help Roland, so that he can help you?
+
+---
 layout: section
 ---
 
-# Slidev - Template
+# Who is Roland?
+
+---
+layout: image
+image: 'images/about.png'
+---
+
+---
+layout: image-right
+image: 'images/craftsman.png'
+---
+
+# I am a Software Craftsman
+
+* Build and own/operate functional (minimal) systems, that solve a
+  problem (that needs solving)
+* Build with functional programming languages
+* Building gardens, not jungles (managable cost of ownership)
+* My dad is a (proud) craftsman (toolsmith; I learned early in life to
+  sign my work; it needs to be beautiful)
+
+---
+layout: image-right
+image: 'images/manager.png'
+---
+
+# I am a Manager
+
+* Building functional teams (were people trust and respect each other)
+* Building (remote-first) places where great engineers can do there
+  best work
+* Help people to find/discover their superpower (everybody got one)
+  and develop it
+
+---
+layout: image-right
+image: 'images/manager.png'
+---
+
+# I am a Leader
+
+* Find problems that need/deserve solving (make the planet a better place)
+* Inspire others to deliver on shared objectives - Jeff Weiner
+* Be strong. Be kind. Be happy
+
+---
+layout: image-right
+image: 'images/family.png'
+---
+
+# I am a Husband and a Father
+
+* Married to a greek woman (Christina; since 1999)
+* She gives him roots. I give him wings (Alexandros; since 2002)
+* German, but living in Dublin/Ireland (since 2006)
+
+---
+layout: image-right
+image: 'images/mbti.png'
+---
+
+# I am Princess Leia and Darth Vader
+
+* ENTJ & ESTJ (MBTI)
+  * Extroverted (strong)
+  * Thinking (strong)
+  * Judging (strong)
+  * Sensing/Intuition (50/50)
+* The Executive & The Supervisor
+* Princess Leia & Darth Vader
+
+---
+
+# What I value in people ...
+
+<img src="/images/values.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
+
+---
+
+# What I value in organisations ...
+
+<img src="/images/values.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
 
 ---
 layout: section
 ---
 
-# Layouts
+# Likes and dis-likes ...
+
+---
+
+# I like ...
+
+... on top of what we have already talked about ...
+
+* ... being on-time (running good meetings)
+* ... being effective/efficient (do not waste time, money, energy
+  (unnecessarily))
+* ... cameradery (a/the feeling of being in it together; building
+  teams that trust and respect each other)
+* ... to be kind (not nice; embrace radical candor and productive friction)
+  * Build safe places, where you can (respectfully) disagree with each
+    other (but then also disagree-and-commit)
+* ... (wired) headsets (I do not need a headset, I can hear you well)
+* ... competence (expertise + experience + intelligence)
+
+---
+layout: section
+---
+
+# Quotes
+
+---
+layout: quote
+---
+
+# We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+Aristotle
+
+---
+layout: quote
+---
+
+# Optimism is the essential ingredient for innovation.
+Robert Noyce
 
 ---
 
