@@ -93,7 +93,6 @@ drawings:
   presenterOnly: false
   syncAll: true
 ---
-
 ---
 layout: intro
 ---
@@ -110,14 +109,14 @@ layout: intro
 
 ---
 layout: image-right
-image: 'images/roland.png'
+image: 'images/roland-tritsch-exec.png'
 ---
 
 # Why?
 
 * Who is Roland?
-* What does Roland like, not like when working together?
-* What to do, not to do to get the most out of Roland?
+* What does Roland like when working together?
+* What to do to the most out of Roland?
 * How to help Roland, so that he can help you?
 
 ---
@@ -127,9 +126,13 @@ layout: section
 # Who is Roland?
 
 ---
-layout: image
-image: 'images/about.png'
----
+
+# About ...
+
+<br>
+<div class="flex h-80 justify-center">
+  <img src="/images/about.png" class="rounded shadow" />
+</div>
 
 ---
 layout: image-right
@@ -138,25 +141,24 @@ image: 'images/craftsman.png'
 
 # I am a Software Craftsman
 
-* Build and own/operate functional (minimal) systems, that solve a
-  problem (that needs solving)
+* Build and own/operate functional (minimal) systems, that solve a problem (that needs solving)
 * Build with functional programming languages
-* Building gardens, not jungles (managable cost of ownership)
-* My dad is a (proud) craftsman (toolsmith; I learned early in life to
-  sign my work; it needs to be beautiful)
+* Build gardens, not jungles (managable cost of ownership)
+* My dad is a craftsman (toolsmith). I learned early in life ...
+  * ... that you plan, execute, clean/sharpen the tools, rinse and repeat
+  * ... to sign my work (it needs to be beautiful; you need to be proud of it)
+  * ... that the quality of the tools and material and the level of the craftmanship determines the quality of what you build
 
 ---
 layout: image-right
-image: 'images/manager.png'
+image: 'https://live.staticflickr.com/65535/49768700213_0c23e49354_z.jpg'
 ---
 
 # I am a Manager
 
 * Building functional teams (were people trust and respect each other)
-* Building (remote-first) places where great engineers can do there
-  best work
-* Help people to find/discover their superpower (everybody got one)
-  and develop it
+* Building (remote-first) places where great engineers can do there best work
+* Help people to find/discover their superpower (everybody got one) and develop it
 
 ---
 layout: image-right
@@ -171,7 +173,7 @@ image: 'images/manager.png'
 
 ---
 layout: image-right
-image: 'images/family.png'
+image: 'images/family.jpg'
 ---
 
 # I am a Husband and a Father
@@ -199,13 +201,19 @@ image: 'images/mbti.png'
 
 # What I value in people ...
 
-<img src="/images/values.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
+<br>
+<div class="flex h-80 justify-center">
+  <img src="/images/values.png" class="rounded shadow" />
+</div>
 
 ---
 
 # What I value in organisations ...
 
-<img src="/images/values.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
+<br>
+<div class="flex h-80 justify-center">
+  <img src="/images/values.png" class="rounded shadow" />
+</div>
 
 ---
 layout: section
@@ -220,13 +228,10 @@ layout: section
 ... on top of what we have already talked about ...
 
 * ... being on-time (running good meetings)
-* ... being effective/efficient (do not waste time, money, energy
-  (unnecessarily))
-* ... cameradery (a/the feeling of being in it together; building
-  teams that trust and respect each other)
+* ... being effective/efficient (do not waste time, money, energy (unnecessarily))
+* ... cameradery (a/the feeling of being in it together; building teams that trust and respect each other)
 * ... to be kind (not nice; embrace radical candor and productive friction)
-  * Build safe places, where you can (respectfully) disagree with each
-    other (but then also disagree-and-commit)
+  * Build safe places, where you can (respectfully) disagree with each other (but then also disagree-and-commit)
 * ... (wired) headsets (I do not need a headset, I can hear you well)
 * ... competence (expertise + experience + intelligence)
 
@@ -249,6 +254,12 @@ layout: quote
 
 # Optimism is the essential ingredient for innovation.
 Robert Noyce
+
+---
+layout: section
+---
+
+# Appendix - Demo
 
 ---
 
