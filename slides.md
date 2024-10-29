@@ -256,6 +256,13 @@ layout: quote
 Robert Noyce
 
 ---
+layout: quote
+---
+
+# Love all, trust (and respect) a few, do wrong to none.
+William Shakespeare
+
+---
 layout: section
 ---
 
