@@ -34,8 +34,8 @@ export:
   withClicks: true
   withToc: false
   
-# syntax highlighter, can be 'prism' or 'shiki'
-highlighter: 'prism'
+# syntax highlighter
+highlighter: 'shiki'
 
 # show line numbers in code blocks
 lineNumbers: true
@@ -103,7 +103,7 @@ layout: intro
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    roland@tritsch.email, Jun 2023
+    roland@tritsch.email, Dec 2024
   </span>
 </div>
 
@@ -116,7 +116,7 @@ image: 'images/roland-tritsch-exec.png'
 
 * Who is Roland?
 * What does Roland like when working together?
-* What to do to the most out of Roland?
+* What I expect and what you can expect!
 * How to help Roland, so that he can help you?
 
 ---
@@ -136,7 +136,7 @@ layout: section
 
 ---
 layout: image-right
-image: 'images/craftsman.png'
+image: 'images/craftsman-portrait.png'
 ---
 
 # I am a Software Craftsman
@@ -144,6 +144,14 @@ image: 'images/craftsman.png'
 * Build and own/operate functional (minimal) systems, that solve a problem (that needs solving)
 * Build with functional programming languages
 * Build gardens, not jungles (managable cost of ownership)
+
+---
+layout: image-right
+image: 'images/craftsman-portrait.png'
+---
+
+# I am a Software Craftsman
+
 * My dad is a craftsman (toolsmith). I learned early in life ...
   * ... that you plan, execute, clean/sharpen the tools, rinse and repeat
   * ... to sign my work (it needs to be beautiful; you need to be proud of it)
@@ -173,7 +181,7 @@ image: 'images/manager.png'
 
 ---
 layout: image-right
-image: 'images/family.jpg'
+image: 'images/family-portrait.png'
 ---
 
 # I am a Husband and a Father
@@ -219,7 +227,7 @@ image: 'images/mbti.png'
 layout: section
 ---
 
-# Likes and dis-likes ...
+# Likes (and dis-likes) ...
 
 ---
 
@@ -227,13 +235,26 @@ layout: section
 
 ... on top of what we have already talked about ...
 
-* ... being on-time (running good meetings)
+* ... being on-time (being professional)
 * ... being effective/efficient (do not waste time, money, energy (unnecessarily))
 * ... cameradery (a/the feeling of being in it together; building teams that trust and respect each other)
 * ... to be kind (not nice; embrace radical candor and productive friction)
   * Build safe places, where you can (respectfully) disagree with each other (but then also disagree-and-commit)
 * ... (wired) headsets (I do not need a headset, I can hear you well)
 * ... competence (expertise + experience + intelligence)
+* ... building beautiful, impactful things/systems
+* ... say what you do, do what you say (no surprises)
+* ... to try a lot and keep what works
+* ... to fail forward
+* ... people with a growth-mindset
+
+---
+
+# I dislike ...
+
+* ... making no mistakes (means we are not pushing hard enough)
+* ... making mistakes twice (means we are not learning fast enough)
+* ... when ego(s) get in the way of moving fast and/or doing something that is good and right
 
 ---
 layout: section
@@ -261,6 +282,27 @@ layout: quote
 
 # Love all, trust (and respect) a few, do wrong to none.
 William Shakespeare
+
+---
+layout: quote
+---
+
+# Every tried? Ever failed? Doesn't matter. Fail again! Fail better!
+Samuel Beckett
+
+---
+layout: section
+---
+
+# Expectations ...
+
+---
+
+# Default
+
+* Slide bullet text
+* Slide bullet text
+* Slide bullet text
 
 ---
 layout: section
@@ -485,27 +527,6 @@ And this is a bullet list ...
 * ???
 * ???
 -->
-
----
-
-# Icons
-
-<mdi-account-circle /> - ??? <br/>
-<carbon-badge /> - ??? <br/>
-<uim-rocket /> - ??? <br/>
-<twemoji-cat-with-tears-of-joy /> - ??? <br/>
-<logos-vue /> - ??? <br/>
-
-View more/all [icons][] ... like ...
-
-<mi-circle-add />
-<mi-circle-remove />
-<mi-circle-check />
-<mi-circle-error />
-<mi-circle-help />
-<mi-circle-information />
-
-[icons]: https://icones.js.org
 
 ---
 
