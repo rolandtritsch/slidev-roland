@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@slidev/theme-apple-basic": "^0.25.1"
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "playwright-chromium": "^1.48.2"
   }
 }
