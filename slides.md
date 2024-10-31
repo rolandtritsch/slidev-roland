@@ -92,7 +92,7 @@ drawings:
   persist: false
   presenterOnly: false
   syncAll: true
----
+
 ---
 layout: intro
 ---
@@ -114,10 +114,10 @@ image: 'images/roland-tritsch-exec.png'
 
 # Why?
 
-* Who is Roland?
-* What does Roland like when working together?
-* What I expect and what you can expect!
-* How to help Roland, so that he can help you?
+- Who is Roland?
+- What does Roland like when working together?
+- What I expect and what you can expect!
+- How to help Roland, so that he can help you?
 
 ---
 layout: section
@@ -141,9 +141,9 @@ image: 'images/craftsman-portrait.png'
 
 # I am a Software Craftsman
 
-* Build and own/operate functional (minimal) systems, that solve a problem (that needs solving)
-* Build with functional programming languages
-* Build gardens, not jungles (managable cost of ownership)
+- Build and own/operate functional (minimal) systems, that solve a problem (that needs solving)
+- Build with functional programming languages
+- Build gardens, not jungles (managable cost of ownership)
 
 ---
 layout: image-right
@@ -152,10 +152,10 @@ image: 'images/craftsman-portrait.png'
 
 # I am a Software Craftsman
 
-* My dad is a craftsman (toolsmith). I learned early in life ...
-  * ... that you plan, execute, clean/sharpen the tools, rinse and repeat
-  * ... to sign my work (it needs to be beautiful; you need to be proud of it)
-  * ... that the quality of the tools and material and the level of the craftmanship determines the quality of what you build
+- My dad is a craftsman (toolsmith). I learned early in life ...
+  - ... that you plan, execute, clean/sharpen the tools, rinse and repeat
+  - ... to sign my work (it needs to be beautiful; you need to be proud of it)
+  - ... that the quality of the tools and material and the level of the craftmanship determines the quality of what you build
 
 ---
 layout: image-right
@@ -164,9 +164,9 @@ image: 'https://live.staticflickr.com/65535/49768700213_0c23e49354_z.jpg'
 
 # I am a Manager
 
-* Building functional teams (were people trust and respect each other)
-* Building (remote-first) places where great engineers can do there best work
-* Help people to find/discover their superpower (everybody got one) and develop it
+- Building functional teams (were people trust and respect each other)
+- Building (remote-first) places where great engineers can do there best work
+- Help people to find/discover their superpower (everybody got one) and develop it
 
 ---
 layout: image-right
@@ -175,9 +175,9 @@ image: 'images/manager.png'
 
 # I am a Leader
 
-* Find problems that need/deserve solving (make the planet a better place)
-* Inspire others to deliver on shared objectives - Jeff Weiner
-* Be strong. Be kind. Be happy
+- Find problems that need/deserve solving (make the planet a better place)
+- Inspire others to deliver on shared objectives - Jeff Weiner
+- Be strong. Be kind. Be happy
 
 ---
 layout: image-right
@@ -186,9 +186,9 @@ image: 'images/family-portrait.png'
 
 # I am a Husband and a Father
 
-* Married to a greek woman (Christina; since 1999)
-* She gives him roots. I give him wings (Alexandros; since 2002)
-* German, but living in Dublin/Ireland (since 2006)
+- Married to a greek woman (Christina; since 1999)
+- She gives him roots. I give him wings (Alexandros; since 2002)
+- German, but living in Dublin/Ireland (since 2006)
 
 ---
 layout: image-right
@@ -197,13 +197,13 @@ image: 'images/mbti.png'
 
 # I am Princess Leia and Darth Vader
 
-* ENTJ & ESTJ (MBTI)
-  * Extroverted (strong)
-  * Thinking (strong)
-  * Judging (strong)
-  * Sensing/Intuition (50/50)
-* The Executive & The Supervisor
-* Princess Leia & Darth Vader
+- ENTJ & ESTJ (MBTI)
+  - Extroverted (strong)
+  - Thinking (strong)
+  - Judging (strong)
+  - Sensing/Intuition (50/50)
+- The Executive & The Supervisor
+- Princess Leia & Darth Vader
 
 ---
 
@@ -233,6 +233,16 @@ image: 'images/mbti.png'
 </div>
 
 ---
+
+# I believe in ...
+
+- ... **people-first**. Get good people and "unleash" them. Putting value on CVs. Always. Every day.
+- ... **purpose-first**. You need to understand why you do what you do. And you need to like it. You need to be able to link it to your personal mission/vison/purpose.
+- ... the value of **functional programming** (low cost of ownership; specifically Scala and Haskell).
+- ... building **balanced and sustainable** engineering orgs (where people **trust and respect** each other).
+- ... the value of **remote-first** (done right) as the next better way to build and run engineering orgs (up to ~300 engineers).
+
+---
 layout: section
 ---
 
@@ -244,26 +254,26 @@ layout: section
 
 ... on top of what we have already talked about ...
 
-* ... being on-time (being professional)
-* ... being effective/efficient (do not waste time, money, energy (unnecessarily))
-* ... cameradery (a/the feeling of being in it together; building teams that trust and respect each other)
-* ... to be kind (not nice; embrace radical candor and productive friction)
-  * Build safe places, where you can (respectfully) disagree with each other (but then also disagree-and-commit)
-* ... (wired) headsets (I do not need a headset, I can hear you well)
-* ... competence (expertise + experience + intelligence)
-* ... building beautiful, impactful things/systems
-* ... say what you do, do what you say (no surprises)
-* ... to try a lot and keep what works
-* ... to fail forward
-* ... people with a growth-mindset
+- ... being on-time (being professional)
+- ... being effective/efficient (do not waste time, money, energy (unnecessarily))
+- ... cameradery (a/the feeling of being in it together; building teams that trust and respect each other)
+- ... to be kind (not nice; embrace radical candor and productive friction)
+  - Build safe places, where you can (respectfully) disagree with each other (but then also disagree-and-commit)
+- ... (wired) headsets (I do not need a headset, I can hear you well)
+- ... competence (expertise + experience + intelligence)
+- ... building beautiful, impactful things/systems
+- ... say what you do, do what you say (no surprises)
+- ... to try a lot and keep what works
+- ... to fail forward
+- ... people with a growth-mindset
 
 ---
 
 # I dislike ...
 
-* ... making no mistakes (means we are not pushing hard enough)
-* ... making mistakes twice (means we are not learning fast enough)
-* ... when ego(s) get in the way of moving fast and/or doing something that is good and right
+- ... making no mistakes (means we are not pushing hard enough)
+- ... making mistakes twice (means we are not learning fast enough)
+- ... when ego(s) get in the way of moving fast and/or doing something that is good and right
 
 ---
 layout: section
@@ -309,9 +319,9 @@ layout: section
 
 # Default
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 layout: section
@@ -323,17 +333,17 @@ layout: section
 
 # Default
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 layout: bullets
 ---
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 layout: intro
@@ -382,17 +392,17 @@ layout: two-cols
 
 # Left
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ::right::
 
 # Right
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 layout: image-right
@@ -403,9 +413,9 @@ image: 'https://live.staticflickr.com/65535/49768700213_0c23e49354_z.jpg'
 
 ## Slide Subtitle
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 layout: section
@@ -489,9 +499,9 @@ layout: section
 
 ![working][]
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
  
 ![working][]
 
@@ -503,9 +513,9 @@ layout: section
 
 <img src="/images/working.jpg" style="float:right; margin:auto" width="20%" hspace="5%" vspace="1%"/>
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
  
 <img src="/images/working.jpg" style="display:block; margin:auto" width="80%" hspace="1%" vspace="1%"/>
 
@@ -515,26 +525,26 @@ layout: section
 
 <img src="/images/working.jpg" class="m-40 h-40 rounded shadow" />
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 ---
 
 # Presenter Notes
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 <!--
 This is a paragraph.
 
 And this is a bullet list ...
 
-* ???
-* ???
-* ???
+- ???
+- ???
+- ???
 -->
 
 ---
@@ -564,8 +574,8 @@ C -->|Two| E[Result 2]
 
 <v-clicks>
 
-* Slide bullet text
-* Slide bullet text
-* Slide bullet text
+- Slide bullet text
+- Slide bullet text
+- Slide bullet text
 
 </v-clicks>
