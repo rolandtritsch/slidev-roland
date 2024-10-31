@@ -224,6 +224,15 @@ image: 'images/mbti.png'
 </div>
 
 ---
+
+# My believes ...
+
+<br>
+<div class="flex h-80 justify-center">
+  <img src="/images/believes.png" class="rounded shadow" />
+</div>
+
+---
 layout: section
 ---
 
